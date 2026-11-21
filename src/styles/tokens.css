@@ -1,0 +1,48 @@
+/* Apple Liquid Glass Clinical Atelier — Design Tokens */
+@theme {
+  /* Core Clinical Palette: Bio-Teal, Vital Cyan, Champagne Gold, Coral Rose */
+  --color-brand: #0B4F4A;
+  --color-brand-900: #073935;
+  --color-brand-50: #E6F4F2;
+  --color-vital: #0284C7;
+  --color-vital-50: #E0F2FE;
+  --color-canvasSilk: #F2F6F7;
+  --color-botanical: #0B4F4A;
+  --color-botanicalMid: #136F68;
+  --color-sageTint: #E1F2EF;
+  --color-clinicalCyan: #0284C7;
+  --color-cyanTint: #E0F2FE;
+  --color-champagne: #B88746;
+  --color-champagneTint: #FDF5E6;
+  --color-roseInk: #B8334A;
+  --color-roseTint: #FFF1F3;
+
+  /* Silk Canvas & Porcelain Surfaces */
+  --color-cream: #F2F6F7;
+  --color-cream2: #E6EEF0;
+  --color-paper: #F7FAFB;
+  --color-surface: #FFFFFF;
+  --color-line: #DCE6E9;
+  --color-rule: #DCE6E9;
+
+  /* Semantic Pastel Accents */
+  --color-sage: #7AB5AD;
+  --color-sage-50: #E8F5F3;
+  --color-terra: #B88746;
+  --color-terra-50: #FBF4E8;
+  --color-turmeric: #B88746;
+  --color-amber-50: #FEF7EC;
+  --color-amber-ink: #8A5A19;
+  --color-rose-50: #FDF0F2;
+  --color-rose-ink: #B8334A;
+
+  /* Clinical Typography Ink */
+  --color-ink: #0F2325;
+  --color-muted: #52686B;
+
+  /* Typography Families - Modern Apple Clinical Atelier (Vietnamese-native) */
+  --font-sans: "Inter", "Be Vietnam Pro", system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+  --font-display: "Be Vietnam Pro", "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+  --font-serifDisplay: "Be Vietnam Pro", "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+  --font-mono: "JetBrains Mono", ui-monospace, SFMono-Regular, Menlo, monospace;
+}
