@@ -1,4 +1,4 @@
-import { createGatewayServer } from '../server/index.js'
+import { createGatewayServer } from './_server.js'
 
 const server = createGatewayServer()
 
